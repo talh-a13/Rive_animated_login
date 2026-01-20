@@ -12,7 +12,7 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
   String validEmail = "talha@gmail.com";
-  String validPassword = "talhadev";
+  String validPassword = "talha";
 
   /// input form controller
   FocusNode emailFocusNode = FocusNode();
